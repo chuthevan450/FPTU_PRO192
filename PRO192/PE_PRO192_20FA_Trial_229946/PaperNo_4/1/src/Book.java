@@ -27,10 +27,6 @@ public class Book {
         return title.toUpperCase();
     }
 
-//    public void setTitle(String title) {
-//        this.title = title;
-//    }
-
     public int getPrice() {
         return price;
     }
